@@ -24,3 +24,7 @@ How to update the git username and email
 1. git config --global user.name "hasitha"
 2. git config --global user.email "rugbyhasi@gmai.com"
 
+How to check the updates done to a file
+
+1. git diff git-commands
+
