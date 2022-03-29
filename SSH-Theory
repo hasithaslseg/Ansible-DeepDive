@@ -1,0 +1,7 @@
+install openssh
+ssh keypair generate
+
+ssh-keygen -t ed25519 -C "add any comment"
+copy key to server
+
+ssh-copy-id -i /root/.ssh/id_rsa.pub
