@@ -19,5 +19,8 @@ How to update your git repo from server
 How to update your directory from GIT Repo
 git pull
 
+How to update the git username and email
 
+1. git config --global user.name "hasitha"
+2. git config --global user.email "rugbyhasi@gmai.com"
 
