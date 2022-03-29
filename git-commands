@@ -1,0 +1,15 @@
+Step 1
+
+Go to Profile--> settings-->ssh keys
+copy the ssh public key and save it (locations /root/.ssh/)
+
+Step 2
+Download your repositary to your directory
+Goto repository -->code-->copy the URL
+
+Step 3
+Go to your directory
+git clone (paste your URL here)
+
+
+
