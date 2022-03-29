@@ -11,5 +11,13 @@ Step 3
 Go to your directory
 git clone (paste your URL here)
 
+How to update your git repo from server
+1. git add file name (if you add any new file)
+2. git commit -m "your Comment"
+3. git push
+
+How to update your directory from GIT Repo
+git pull
+
 
 
