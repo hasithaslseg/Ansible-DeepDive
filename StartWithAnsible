@@ -1,0 +1,13 @@
+yum install ansible
+
+
+
+How to create an inventory file
+
+Method 1:
+
+1. vim inventory
+
+IP ADD1
+IP ADD2
+IP ADD3
